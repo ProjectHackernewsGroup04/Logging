@@ -13,7 +13,7 @@ jobs:
           command: |
             ssh $SSH_USER@$SSH_HOST "rm -rf Logging
             git clone https://github.com/ProjectHackernewsGroup04/Logging.git
-            docker stack deploy -c Logging/docker-stack.yml LOGGING
+            docker stack deploy -c Logging/docker-stack.yml loggin_stack
             exit"
 
 workflows:
