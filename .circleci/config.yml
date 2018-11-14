@@ -17,7 +17,8 @@ jobs:
             rm -rf Logging
             git clone https://github.com/ProjectHackernewsGroup04/Logging.git
             cd Logging
-            docker-compose up -d"
+            docker-compose up -d
+            logout"
 
 workflows:
   version: 2
