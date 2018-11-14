@@ -15,7 +15,7 @@ jobs:
             git clone https://github.com/ProjectHackernewsGroup04/Logging.git
             cd Logging
             docker stack deploy
-            logout"
+            exit"
 
 workflows:
   version: 2
