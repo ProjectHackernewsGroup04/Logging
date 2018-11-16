@@ -16,7 +16,7 @@
 11. inside vagrant : curl 0.0.0.0:5000/api/item/all (There is a log that will be revoked and send the message to logstash)
 12. Now your kibana have data
 13. You need to goto management menu and create a new index pattern by typing the wildcard "*"
-![alt text](https://i.gyazo.com/86db78dee2cfd1b481730611ae23bbf8.png)
+![alt text](https://i.gyazo.com/dfe342139de48414bfa6803ba79dae7f.png)
 
 14. Click next step
 15. Choose "I dont want use timefilter" as option 
@@ -37,7 +37,7 @@
 11. inside vagrant : curl 0.0.0.0:5000/api/item/all (There is a log that will be revoked and send the message to logstash)
 12. Now your kibana have data
 13. You need to goto management menu and create a new index pattern by typing the wildcard "*"
-![alt text](https://i.gyazo.com/86db78dee2cfd1b481730611ae23bbf8.png)
+![alt text](https://i.gyazo.com/dfe342139de48414bfa6803ba79dae7f.png)
 
 14. Click next step
 15. Choose "I dont want use timefilter" as option 
