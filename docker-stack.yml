@@ -63,3 +63,4 @@ configs:
 networks:
   elk:
     driver: overlay
+    attachable: true
