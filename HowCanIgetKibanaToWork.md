@@ -46,3 +46,5 @@
 18. you should see a message with "API: getting all items"
 ![alt text](https://i.gyazo.com/ced607889b0d500e11b5de0fbcf41321.png)
 
+# IF YOU ARE HAVING ERROR WITH "CONNECTION REFUSED" SO I SUGGEST YOU JUST DESTROY VAGRANT AND START FROM FRESH
+
