@@ -1,9 +1,7 @@
 # Guide to how use Kibana locally
 
 
-## In case the master is not merged yet with new branch ("LoggingPatch") : 
-
-### To get logging and backend and database up and running
+### In case the master is not merged yet with new branch ("LoggingPatch") : 
 
 1. Git pull everything 
 2. Vagrant reload / ssh
@@ -29,7 +27,7 @@
 
 
 
-## In case the master is merged with the new branch: 
+### In case the master is merged with the new branch: 
 1. cd /app/logging
 2. docker-compose up
 3. cd /app/
