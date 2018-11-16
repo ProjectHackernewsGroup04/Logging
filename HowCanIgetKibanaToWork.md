@@ -3,7 +3,7 @@
 
 ### In case the master is not merged yet with new branch ("LoggingPatch") : 
 
-1. Git pull everything 
+1. Git pull everything plus 3x loggingPatch branches
 2. Vagrant reload / ssh
 3. cd /app/logging/
 4. docker-compose up --build (to run logstash,kibana and elasticsearch)
