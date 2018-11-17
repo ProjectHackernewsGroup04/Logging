@@ -1,4 +1,4 @@
-version: '3'
+version: '3.5'
 
 services:
 
@@ -50,6 +50,6 @@ services:
       - elasticsearch
 
 networks:
-
   elk:
+    name: elk
     driver: bridge
